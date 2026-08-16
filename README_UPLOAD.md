@@ -1,4 +1,4 @@
-# Bit 2048 Extreame store website
+# Bit 2048 Extreme store website
 
 Upload every file and directory in this folder to the document root for
 `https://bit2048.hopalt.com/`.
